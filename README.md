@@ -111,7 +111,8 @@ The system processes a night-driving video and performs the following operations
                                       v
                               GRAPHICAL ANALYSIS
 
-Main Features
+
+# Main Features
 1. Night-Driving Video Upload
 
 The application allows users to upload a night-driving video.
